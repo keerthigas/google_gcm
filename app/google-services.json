@@ -1,0 +1,51 @@
+{
+  "project_info": {
+    "project_id": "gcmproject-1176",
+    "project_number": "21104610692",
+    "name": "Gcmproject"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:21104610692:android:e0dcdaf3e2696b0a",
+        "client_id": "android:com.example.vinitha.myapplication",
+        "client_type": 1,
+        "android_client_info": {
+          "package_name": "com.example.vinitha.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "21104610692-6j9uqqs99cbvkpkh95f9vg6v5gqfoquv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.vinitha.myapplication",
+            "certificate_hash": "D3208A9CBBDD04355C836194EF36C18AFE777ED7"
+          }
+        }
+      ],
+      "api_key": [],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "cloud_messaging_service": {
+          "status": 1,
+          "apns_config": []
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "google_signin_service": {
+          "status": 2
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "client_info": [],
+  "ARTIFACT_VERSION": "1"
+}
